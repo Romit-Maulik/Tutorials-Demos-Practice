@@ -1,5 +1,5 @@
 absl-py==0.7.1
-aiohttp==3.6.2
+aiohttp==3.7.4
 astor==0.7.1
 astunparse==1.6.3
 async-timeout==3.0.1
